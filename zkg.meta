@@ -1,0 +1,6 @@
+[package]
+script_dir = scripts
+test_command = cd testing && btest -c btest.cfg
+corelight_name = PrintNightmare
+summary = Detects potential PrintNightmare (CVE-2021-1675) exploits.
+description = Detects potential PrintNightmare (CVE-2021-1675) exploits.
